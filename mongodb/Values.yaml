@@ -1,0 +1,4 @@
+statefulset:
+  replicas: 1
+  imageRepo: chandu4234/mongodb
+  imageVersion: 4.0.0
